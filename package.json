@@ -1,6 +1,7 @@
 {
   "name": "yarn-workspace-install",
   "version": "1.0.0",
+  "private": "true",
   "description": "",
   "main": "index.js",
   "workspaces": [
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/whatwg6/yarn-workspace-install/issues"
   },
-  "homepage": "https://github.com/whatwg6/yarn-workspace-install#readme"
+  "homepage": "https://github.com/whatwg6/yarn-workspace-install#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
