@@ -1,0 +1,22 @@
+{
+  "name": "yarn-workspace-install",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatwg6/yarn-workspace-install.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whatwg6/yarn-workspace-install/issues"
+  },
+  "homepage": "https://github.com/whatwg6/yarn-workspace-install#readme"
+}
